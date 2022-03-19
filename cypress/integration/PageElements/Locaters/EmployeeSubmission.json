@@ -1,0 +1,11 @@
+{
+    "newEmployeeSubmission_Label":"New Employee Submission",
+    "firstName_Label":"First Name",
+    "lastName_Label":"Last Name",
+    "city_Label":"City",
+    "save_Label":"Save",
+    "textField_TagName" :"input",
+    "confirm_Save":".modal-footer>button",
+    "record_Title":".titlebar-icon+span>span",
+    "plusIcon":"div.app-buttons"
+}

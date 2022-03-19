@@ -1,0 +1,9 @@
+{
+  "login_Header": "Welcome to Swimlane",
+  "login_SubHeader": "Prioritize alerts, remediate threats and improve operational performance.",
+  "loginFailed_ErrorMessage": "Login failed.",
+  "userNameLabel": "ngx-input[label=Username]",
+  "passwordLabel": "ngx-input[label=Password]",
+  "sign_Button": ".btn-signin",
+  "eyeIcon_loginScreen": "span.icon-eye"
+}
