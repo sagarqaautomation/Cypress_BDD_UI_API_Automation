@@ -23,7 +23,7 @@
             "name": "I should do \"POST\" call with login User details and Save the Token",
             "result": {
               "status": "passed",
-              "duration": 2784000000
+              "duration": 759000000
             }
           },
           {
@@ -33,7 +33,7 @@
             "name": "I should do \"POST\" call to verify the response code as \"200\"",
             "result": {
               "status": "passed",
-              "duration": 622000000
+              "duration": 492000000
             }
           },
           {
@@ -43,7 +43,7 @@
             "name": "I should do \"GET\" call and verify the response code as \"200\"",
             "result": {
               "status": "passed",
-              "duration": 528000000
+              "duration": 387000000
             }
           },
           {
@@ -53,7 +53,7 @@
             "name": "I should do \"DELETE\" call and verify the response code as \"204\"",
             "result": {
               "status": "passed",
-              "duration": 2376000000
+              "duration": 2880000000
             }
           }
         ]

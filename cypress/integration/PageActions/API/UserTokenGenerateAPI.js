@@ -16,7 +16,7 @@ class UserTokenGenerateAPI {
       .then((response) => {
         this.token = response.body.token;
         cy.writeFile("cypress\\fixtures\\example.json", {
-          token: this.token,
+          token:this.token,
         });
       });
   }
