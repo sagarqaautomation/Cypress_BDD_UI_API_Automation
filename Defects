@@ -1,0 +1,14 @@
+Summary : Employee id's are not populating on the Employee Submission records screen
+
+Environment : QA
+URL : https://qa-practical.qa.swimlane.io
+
+Steps to reproduce:
+1. Launch the Application and Enter valid Credentials
+2. Click on Login button
+3. Click on + icon in the Dashboard Screen next to New Employee Submission label 
+4. Enter valid details and click on Save button
+5. Observe the Employee recordId 
+
+Actual Result: Employee id's are not populating on the Employee Submission records screen
+Expected Result : Employee id's should populate on the Employee Submission records screen
