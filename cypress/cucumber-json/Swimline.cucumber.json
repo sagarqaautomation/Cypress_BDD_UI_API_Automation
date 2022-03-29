@@ -23,7 +23,7 @@
             "name": "I launch the Simline login Screen",
             "result": {
               "status": "passed",
-              "duration": 28275000000
+              "duration": 33805000000
             }
           },
           {
@@ -33,7 +33,7 @@
             "name": "I Should validate labels in the login Screen",
             "result": {
               "status": "passed",
-              "duration": 5893000000
+              "duration": 5434000000
             }
           },
           {
@@ -43,7 +43,7 @@
             "name": "I Should validate buttons in the login Screen",
             "result": {
               "status": "passed",
-              "duration": 71000000
+              "duration": 299000000
             }
           },
           {
@@ -53,7 +53,7 @@
             "name": "I Should validate headers and Subheaders in the login Screen",
             "result": {
               "status": "passed",
-              "duration": 100000000
+              "duration": 697000000
             }
           }
         ]
@@ -73,7 +73,7 @@
             "name": "I launch the Simline login Screen",
             "result": {
               "status": "passed",
-              "duration": 18627000000
+              "duration": 26814000000
             }
           },
           {
@@ -100,7 +100,7 @@
             "name": "I enter",
             "result": {
               "status": "passed",
-              "duration": 12099000000
+              "duration": 6725000000
             }
           },
           {
@@ -110,7 +110,7 @@
             "name": "I click on login button in the login Screen",
             "result": {
               "status": "passed",
-              "duration": 514000000
+              "duration": 373000000
             }
           },
           {
@@ -120,7 +120,7 @@
             "name": "I Should validate Dashboard Url and title",
             "result": {
               "status": "passed",
-              "duration": 2665000000
+              "duration": 2968000000
             }
           }
         ]
@@ -145,7 +145,7 @@
             "name": "I launch the Simline login Screen",
             "result": {
               "status": "passed",
-              "duration": 17505000000
+              "duration": 16301000000
             }
           },
           {
@@ -155,7 +155,7 @@
             "name": "I enter username and password as \"sagar.tatipally\" and \"F*@5jM5RDX5m\" in the login Screen",
             "result": {
               "status": "passed",
-              "duration": 7728000000
+              "duration": 8874000000
             }
           },
           {
@@ -165,7 +165,7 @@
             "name": "I click on login button in the login Screen",
             "result": {
               "status": "passed",
-              "duration": 486000000
+              "duration": 673000000
             }
           },
           {
@@ -175,7 +175,7 @@
             "name": "I Should validate Dashboard Url and title",
             "result": {
               "status": "passed",
-              "duration": 2344000000
+              "duration": 3583000000
             }
           }
         ]
@@ -195,7 +195,7 @@
             "name": "I launch the Simline login Screen",
             "result": {
               "status": "passed",
-              "duration": 20722000000
+              "duration": 25941000000
             }
           },
           {
@@ -205,7 +205,7 @@
             "name": "I enter username and password in the login Screen",
             "result": {
               "status": "passed",
-              "duration": 8442000000
+              "duration": 11718000000
             }
           },
           {
@@ -215,7 +215,7 @@
             "name": "I click on login button in the login Screen",
             "result": {
               "status": "passed",
-              "duration": 2089000000
+              "duration": 607000000
             }
           },
           {
@@ -225,7 +225,7 @@
             "name": "I Should validate Dashboard Url and title",
             "result": {
               "status": "passed",
-              "duration": 1127000000
+              "duration": 3752000000
             }
           }
         ]
@@ -245,7 +245,7 @@
             "name": "I launch the Simline login Screen",
             "result": {
               "status": "passed",
-              "duration": 22839000000
+              "duration": 19752000000
             }
           },
           {
@@ -255,7 +255,7 @@
             "name": "I enter username and password as \"sagar.tatipally\" and \"welcome\" in the login Screen",
             "result": {
               "status": "passed",
-              "duration": 8089000000
+              "duration": 10465000000
             }
           },
           {
@@ -265,7 +265,7 @@
             "name": "I click on login button in the login Screen",
             "result": {
               "status": "passed",
-              "duration": 508000000
+              "duration": 513000000
             }
           },
           {
@@ -275,7 +275,7 @@
             "name": "I validate login failed error message",
             "result": {
               "status": "passed",
-              "duration": 17000000
+              "duration": 9000000
             }
           }
         ]
@@ -295,7 +295,7 @@
             "name": "I launch the Simline login Screen",
             "result": {
               "status": "passed",
-              "duration": 18305000000
+              "duration": 23776000000
             }
           },
           {
@@ -305,7 +305,7 @@
             "name": "I enter username and password as \"welcome\" and \"sagar.tatipally\" in the login Screen",
             "result": {
               "status": "passed",
-              "duration": 9950000000
+              "duration": 8024000000
             }
           },
           {
@@ -315,7 +315,7 @@
             "name": "I click on login button in the login Screen",
             "result": {
               "status": "passed",
-              "duration": 419000000
+              "duration": 679000000
             }
           },
           {
@@ -325,7 +325,7 @@
             "name": "I validate login failed error message",
             "result": {
               "status": "passed",
-              "duration": 10000000
+              "duration": 19000000
             }
           }
         ]

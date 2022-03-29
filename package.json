@@ -7,6 +7,7 @@
     "cy:open": "cypress open",
     "cy:run": "cypress run",
     "cy:run:chrome": "cypress run --browser chrome",
+    "start": "node cucumber-html-report",
     "cy:run:chrome:smoke": "cypress-tags run --browser chrome --headed \"TAGS=@smoke\""
   },
   "author": "sagar",
@@ -21,7 +22,7 @@
     "nonGlobalStepDefinitions": false,
     "cucumberJson": {
       "generate": true,
-      "outputFolder": "cypress/cucumber-json"
+      "outputFolder": "cypress/reports/cucumber-json"
     }
   },
   "dependencies": {
