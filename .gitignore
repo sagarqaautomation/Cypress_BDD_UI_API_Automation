@@ -1,4 +1,8 @@
-node_modules
-/*.json
-/*.mp4
-/*.png
+# ignore node dependency directories
+node_modules/
+screenshots/
+videos/
+# ignore log files and databases
+*.log
+*.sql
+*.sqlite
