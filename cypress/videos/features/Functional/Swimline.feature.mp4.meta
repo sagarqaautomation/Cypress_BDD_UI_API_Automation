@@ -1,0 +1,31 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=-5106
+END=29293
+title=Swimline login Intial load Login Screen Validation
+[CHAPTER]
+TIMEBASE=1/1000
+START=29402
+END=63728
+title=Swimline login Login with Valid details using Datable
+[CHAPTER]
+TIMEBASE=1/1000
+START=69030
+END=98209
+title=Swimline login Login with Valid details using hardcoded paramertes in feature file
+[CHAPTER]
+TIMEBASE=1/1000
+START=96866
+END=127678
+title=Swimline login Login with Valid details using Environment variables from cypress json file
+[CHAPTER]
+TIMEBASE=1/1000
+START=128301
+END=158692
+title=Swimline login Login with Multiple testdata using Examples (example #1)
+[CHAPTER]
+TIMEBASE=1/1000
+START=158792
+END=189121
+title=Swimline login Login with Multiple testdata using Examples (example #2)

@@ -16,7 +16,7 @@ Feature: Swimline login
             | sagar.tatipally | F*@5jM5RDX5m |
         And I click on login button in the login Screen
         Then I Should validate Dashboard Url and title
-
+    @smoke
     Scenario: Login with Valid details using hardcoded paramertes in feature file
         When I enter username and password as "sagar.tatipally" and "F*@5jM5RDX5m" in the login Screen
         And I click on login button in the login Screen

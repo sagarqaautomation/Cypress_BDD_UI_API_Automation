@@ -1,16 +1,16 @@
-var reporter = require("cucumber-html-reporter");
-var options = {
-  theme: "bootstrap",
-
-  jsonFile: "cypress/cucumber-json",
-
-  output: "./reports/cucumber-htmlreport.html",
-
-  reportSuiteAsScenarios: true,
-
-  scenarioTimestamp: true,
-
-  launchReport: true,
-};
-
-reporter.generate(options);
+const report = require("multiple-cucumber-html-reporter");
+report.generate({
+    jsonDir: "cypress/reports/cucumber-json",  // ** Path of .json file **//
+    reportPath: "cypress/reports", // ** Path of .html file **//
+    metadata: {
+        browser: {
+            name: "chrome",
+            version: "latest",
+        },
+        device: "Local test machine",
+        platform: {
+            name: "windows",
+            version: "10",
+        },
+    },
+});

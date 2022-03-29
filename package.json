@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "cy:open": "cypress open",
-    "cy:run": "cypress run"
+    "cy:run": "cypress run",
+    "cy:run:chrome": "cypress run --browser chrome",
+    "cy:run:chrome:smoke": "cypress-tags run --browser chrome --headed \"TAGS=@smoke\""
   },
   "author": "sagar",
   "license": "ISC",
