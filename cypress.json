@@ -5,19 +5,17 @@
     "defaultCommandTimeout":15000,
     "trashAssetsBeforeRuns":true,
     "testFiles": "**/*.feature" ,
-    "baseUrl" :"https://qa-practical.qa.swimlane.io",
+    "baseUrl" ",
     "env": 
     {
        "Username": "sagar.tatipally",
-       "Password": "F*@5jM5RDX5m",
-       "title": "Swimlane",
+       "Password": "",
+       "title": "",
        "login_header": "Prioritize alerts, remediate threats and improve operational performance.",
        "loginURL" : "/login",
-       "Dashboard":"/welcome",
-       "APIURL" :"https://qa-practical.qa.swimlane.io/api",
        "loginAPIURl": "/user/login",
        "SUCCESS_STATUS": 200,
-       "applicationId":"aF5sqnNFCc36kO9_J",
+       "applicationId":"",
        "createRecordURI": "/app/aF5sqnNFCc36kO9_J/record"
       }   
 }
